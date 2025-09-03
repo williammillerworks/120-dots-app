@@ -2,6 +2,8 @@
 
 A minimalist 2-minute meditation experience using visual dot progression.
 
+[claude artifact](https://claude.ai/public/artifacts/e0ba3ed7-bdc6-4d75-9b75-892ff68fa959)
+
 ## Features
 - 120 dots that fill over 2 minutes
 - Mouse movement detection with reset functionality
