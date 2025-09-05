@@ -3,8 +3,10 @@
 A minimalist 2-minute meditation experience using visual dot progression.
 
 [claude artifact-1](https://claude.ai/public/artifacts/e0ba3ed7-bdc6-4d75-9b75-892ff68fa959)
+
 [claude artifact-2](https://claude.ai/public/artifacts/ca1bbb85-2e2c-4e29-a232-1f6340d0067f)
 
+[claude artifact-3](https://claude.ai/public/artifacts/b459f002-87e3-48af-a756-94e1ebe4fe04)
 
 ## Features
 - 120 dots that fill over 2 minutes
